@@ -1,1 +1,1 @@
-# assingment1
+# assingment1 - simple BMI Calculator
